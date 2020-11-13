@@ -1,0 +1,16 @@
+body { 
+    
+    font-family: sans-serif;
+    overflow: hidden;
+    display: none;
+}
+
+#deneme {
+    width: 485px;
+    height: 275px;
+    border: 15px groove gray;
+    position: relative;
+    margin: auto;
+    background-color:white;
+}
+
